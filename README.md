@@ -1,3 +1,5 @@
+# Auth Server
+
 # Getting Started
 
 ### Reference Documentation
@@ -25,7 +27,7 @@ These additional references should also help you:
 * [Declarative REST calls with Spring Cloud OpenFeign sample](https://github.com/spring-cloud-samples/feign-eureka)
 
 ### Docker Compose support
-This project contains a Docker Compose file named `compose.yaml`.
+This project contains a Docker Compose file.
 In this file, the following services have been defined:
 
 * postgres: [`postgres:latest`](https://hub.docker.com/_/postgres)
