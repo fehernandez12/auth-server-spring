@@ -1,4 +1,4 @@
-# Auth Server
+# Identity Server
 
 # Getting Started
 
